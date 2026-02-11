@@ -7,6 +7,11 @@
 *.fls
 *.out
 *.toc
+*.synctex.gz
+*.fdb_latexmk
+
+## Output files:
+*.pdf
 
 ## Intermediate documents:
 *.dvi
@@ -20,4 +25,3 @@
 ### Mac OS X ###
 ## Mac OS X metadata files:
 *.DS_Store
-
